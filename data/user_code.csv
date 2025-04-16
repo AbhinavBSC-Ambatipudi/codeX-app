@@ -1,0 +1,37 @@
+username,code,created_at
+Abhinavabsc,"for i in range(10):
+    print(i)
+    ",2025-04-16 22:02:32
+Abhinavabsc,"print(""Hello World !"")",2025-04-16 22:10:18
+admin,"print(""Hello World"")",2025-04-16 22:25:50
+admin,"public class PrimeNumbers {
+    public static boolean isPrime(int num) {
+        if (num <= 1) {
+            return false;
+        }
+        for (int i = 2; i <= Math.sqrt(num); i++) {
+            if (num % i == 0) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+    public static void main(String[] args) {
+        for (int num = 2; num < 100; num++) {
+            if (isPrime(num)) {
+                System.out.print(num + "" "");
+            }
+        }
+    }
+}",2025-04-16 22:33:19
+admin,"def is_prime(num):
+    return num > 1 and all(num % i != 0 for i in range(2, int(num**0.5) + 1))
+
+for num in range(2, 100):
+    if is_prime(num):
+        print(num, end="" "")",2025-04-16 22:33:31
+admin,"for i in range(10):
+    print()",2025-04-16 22:41:52
+admin,"for i in range(10):
+    print(i)",2025-04-16 22:42:00
