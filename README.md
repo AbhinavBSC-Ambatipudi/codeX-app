@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # codeX - AI-Powered Coding Companion
 
 codeX is a modern web application that provides AI assistance for developers, featuring a code editor and AI chatbot to help with programming tasks.
@@ -55,3 +56,6 @@ Your app will be deployed with a public URL that you can share with others.
 - OpenAI API
 - Python
 - HTML/CSS
+=======
+# codeX-app-v2
+>>>>>>> cc06f7a6a4ad79b1113cff164419d7d1fc992938
